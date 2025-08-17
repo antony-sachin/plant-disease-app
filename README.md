@@ -4,4 +4,4 @@
 4.store both model and app.py code in same folder 
 5.then use cd.. to direct to that folder then run below command to run ur streamlit webapp
 6.streamlit run your_app.py
-7.done.
+7.done
